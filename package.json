@@ -1,6 +1,6 @@
 {
   "name": "chai-regexp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chai matching library for comparing equality between two RegExp objects",
   "main": "index.js",
   "scripts": {
